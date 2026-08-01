@@ -29,6 +29,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Girls' Frontline 2: Exilium (2023)](#girls-frontline-2-exilium-2023)
     * [Honkai Impact 3rd (2016)](#honkai-impact-3rd-2016)
     * [Honkai: Star Rail (2023)](#honkai-star-rail-2023)
+    * [Limbus Company (2023)](#limbus-company-2023)
     * [Minecraft (2009)](#minecraft-2009)
     * [NieR Re[in]carnation (2021)](#nier-reincarnation-2021)
     * [osu! (2007)](#osu-2007)
@@ -213,6 +214,15 @@ Different server implementations will be categorized by the games that they're u
 * 🟥 [LunarCore](https://github.com/Melledy/LunarCore) `Java/AGPL-3.0`
 * 🟥 [YaoGuangSR](https://git.xeondev.com/HonkaiSlopRail/yaoguang-sr) `Zig/ARR`
     * 🟩 [EvanesciaSR](https://git.xeondev.com/HonkaiSlopRail/evanescia-sr)
+
+---
+
+### Limbus Company (2023)
+
+> [!NOTE]
+> Developed and published by Project Moon.
+
+* 🟩 [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) `C#`
 
 ---
 
