@@ -37,6 +37,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Punishing: Gray Raven (2019)](#punishing-gray-raven-2019)
     * [Ragnarok Online (2002)](#ragnarok-online-2002)
     * [Reverse: 1999 (2023)](#reverse-1999-2023)
+    * [Snowbreak: Containment Zone (2023)](#snowbreak-containment-zone-2023)
     * [Stella Sora (2025)](#stella-sora-2025)
     * [Wuthering Waves (2024)](#wuthering-waves-2024)
     * [Zenless Zone Zero (2024)](#zenless-zone-zero-2024)
@@ -295,6 +296,15 @@ Different server implementations will be categorized by the games that they're u
 
 * 🟥 [sonetto-rs](https://github.com/Yoshk4e/sonetto-rs) `Rust/ARR`
 * 🟩 [enigma](https://github.com/yoncodes/enigma) `Rust`
+---
+
+### Snowbreak: Containment Zone (2023)
+
+> [!NOTE]
+> Developed and published by Amazing Seasun Games.
+
+* 🟩 [MikuSB](https://github.com/MikuLeaks/MikuSB) `C#/MIT`
+
 ---
 
 ### Stella Sora (2025)
