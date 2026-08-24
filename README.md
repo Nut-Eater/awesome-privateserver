@@ -30,7 +30,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Honkai Impact 3rd (2016)](#honkai-impact-3rd-2016)
     * [Honkai: Star Rail (2023)](#honkai-star-rail-2023)
     * [Limbus Company (2023)](#limbus-company-2023)
-    * [Love Live! School idol festival 2 MIRACLE LIVE! (2024)](#Love-Live-2-2024)
+    * [Love Live! School idol festival 2 MIRACLE LIVE! (2024)](#love-live-school-idol-festival-2-miracle-live-2024)
     * [Mahjong Soul (2018)](#mahjong-soul-2018)
     * [Minecraft (2009)](#minecraft-2009)
     * [NieR Re[in]carnation (2021)](#nier-reincarnation-2021)
