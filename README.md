@@ -30,6 +30,8 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Honkai Impact 3rd (2016)](#honkai-impact-3rd-2016)
     * [Honkai: Star Rail (2023)](#honkai-star-rail-2023)
     * [Limbus Company (2023)](#limbus-company-2023)
+    * [Love Live! School idol festival 2 MIRACLE LIVE! (2024)](#Love-Live-2-2024)
+    * [Mahjong Soul (2018)](#mahjong-soul-2018)
     * [Minecraft (2009)](#minecraft-2009)
     * [NieR Re[in]carnation (2021)](#nier-reincarnation-2021)
     * [osu! (2007)](#osu-2007)
@@ -73,12 +75,13 @@ Different server implementations will be categorized by the games that they're u
 
 ---
 
-### Arcaea (2017)
+### Archea (2017)
 
 > [!NOTE]
 > Developed and published by Lowiro.
 
-* 🟩 [Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) `Python/MIT`
+* 🟥 [Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) `Python/MIT`
+   * 🟩 [Arcaea MoliPatch](https://github.com/Moli13337/Arcaea-6.15.0c) `Python`
 
 ---
 
@@ -108,7 +111,8 @@ Different server implementations will be categorized by the games that they're u
 > Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.
 
 * 🟥 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
-
+* 🟩 [CheshireLane](https://github.com/Irminsul-dev/CheshireLane9) `Rust`
+* 🟩 [Azurlane-9.7.205](https://github.com/Moli13337/Azurlane-9.7.205) `Kotlin`
 ---
 
 ### Azur Promilia (2026)
@@ -224,6 +228,24 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Project Moon.
 
 * 🟩 [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) `C#`
+
+---
+
+### Love Live! School idol festival 2 MIRACLE LIVE! (2024)
+
+> [!NOTE]
+> Developed by GREE and published by Bushiroad. Reached End of Service since May 2024.
+
+* 🟩 [ew](https://github.com/ethanaobrien/ew) `Rust`
+
+---
+
+### Mahjong Soul (2018)
+
+> [!NOTE]
+> Developed by Cat Food Studio and published by Cat Food Studio(CN)/Yostar(Global).
+
+* 🟩 [MahjongSoul-4.0.26](https://github.com/Moli13337/MahjongSoul-4.0.26) `Typescript/C/Python`
 
 ---
 
