@@ -146,7 +146,7 @@ Different server implementations will be categorized by the games that they're u
 
 ---
 
-### Counter:Side(2020)
+### Counter:Side (2020)
 
 > [!NOTE]
 > Developed and published by Studiobside. This game had reached End of Service since August 2026.
