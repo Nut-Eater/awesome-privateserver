@@ -22,6 +22,7 @@ Contributions are always appreciated, check the [Contributing](#contributing) se
     * [Azur Lane (2017)](#azur-lane-2017)
     * [Blue Archive (2021)](#blue-archive-2021)
     * [Command & Conquer: Red Alert (1996)](#command--conquer-red-alert-1996)
+    * [Counter:Side](#counterside-2020)
     * [Dragalia Lost (2018)](#dragalia-lost-2018)
     * [Escape from Tarkov (2025)](#escape-from-tarkov-2025)
     * [Goddess of Victory: Nikke (2022)](#goddess-of-victory-nikke-2022)
@@ -75,13 +76,13 @@ Different server implementations will be categorized by the games that they're u
 
 ---
 
-### Archea (2017)
+### Arcaea (2017)
 
 > [!NOTE]
 > Developed and published by Lowiro.
 
 * 🟥 [Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) `Python/MIT`
-   * 🟩 [Arcaea MoliPatch](https://github.com/Moli13337/Arcaea-6.15.0c) `Python`
+* 🟩 [Arcaea MoliPatch](https://github.com/Moli13337/Arcaea-6.15.0c) `Python/GPL-3.0`
 
 ---
 
@@ -111,8 +112,9 @@ Different server implementations will be categorized by the games that they're u
 > Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.
 
 * 🟥 [Belfast](https://github.com/ggmolly/belfast) `Go/GPL-3.0`
-* 🟩 [CheshireLane](https://github.com/Irminsul-dev/CheshireLane9) `Rust`
-* 🟩 [Azurlane-9.7.205](https://github.com/Moli13337/Azurlane-9.7.205) `Kotlin`
+* 🟩 [CheshireLane](https://github.com/Irminsul-dev/CheshireLane9) `Rust/AGPL-3.0`
+* 🟩 [Azurlane-9.7.205](https://github.com/Moli13337/Azurlane-9.7.205) `Kotlin/GPL-3.0`
+
 ---
 
 ### Azur Promilia (2026)
@@ -141,6 +143,15 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Westwood Studios (now Electronic Arts).
 
 * 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) `C#/GPL-3.0`
+
+---
+
+### Counter:Side(2020)
+
+> [!NOTE]
+> Developed and published by Studiobside. This game had reached End of Service since August 2026.
+
+* 🟩 [Revivalside](https://github.com/MadlyMoe/RevivalSide) `Javascript`
 
 ---
 
@@ -317,7 +328,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Bluepoch.
 
 * 🟥 [sonetto-rs](https://github.com/Yoshk4e/sonetto-rs) `Rust/ARR`
-* 🟩 [enigma](https://github.com/yoncodes/enigma) `Rust`
+
 ---
 
 ### Snowbreak: Containment Zone (2023)
